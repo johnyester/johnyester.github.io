@@ -15,18 +15,23 @@ My motivation for this blog is to share ideas I'm working on to apply low cost s
   - embeddable sensors
   - intelligent agents
   - distributed computation
+  
+Additionaly, since most of the tools I use support Markdown, I hope this blog will assist me with developing addtional capability in my code documentation process.
 
-Other (future) areas I hope to share on include:
-- financial and banking applications
-- automated spreadsheet generation
-- automated PDF generation for sharing results
-- data visualization
-- data scrubing
-
-Professionaly, I'm involved in software development for
+Professionaly, I'm involved in software development for:
   - Vehicle data collection and data reduction for automated map generation 
   - Neural Networks for behavioral modeling
   - Dynamic systems modeling and simulation
+
+
+Other (future) areas I hope discuss include:
+- Data scrubing and visualization
+- Camera image processing and other sensor data applications
+- Dynamic systems modeling and validation
+- Automated spreadsheet generation
+- Automated PDF generation for results sharing and reporting.
+
+Hat tip to Barry Clark's [Jekyll Now](https://github.com/barryclark/jekyll-now) repo for providing the structure this blog is based on.
 
 ### Contact me
 

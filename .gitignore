@@ -10,3 +10,4 @@ node_modules
 package.json
 *.yml~
 *.md~
+.ipynb_checkpoints/
