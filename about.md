@@ -4,12 +4,30 @@ title: About
 permalink: /about/
 ---
 
-Embedded software developer specializing in ADAS/AD data, sensing, and controls reseach and development. 
+Embedded software developer in automotive ADAS/AD product development related to:
+- data collection, visualization, and manipulation
+- control systems reseach and development. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My motivation for this blog is to share ideas I'm working on to apply low cost sensors and hardware for sports tracking.
+- Leveraging low cost hardware (a la Raspberry Po) as a platform for:
+  - embeddable sensors
+  - intelligent agents
+  - distributed computation
+
+Other (future) areas I hope to share on include:
+- financial and banking applications
+- automated spreadsheet generation
+- automated PDF generation for sharing results
+- data visualization
+- data scrubing
+
+Professionaly, I'm involved in software development for
+  - Vehicle data collection and data reduction for automated map generation 
+  - Neural Networks for behavioral modeling
+  - Dynamic systems modeling and simulation
 
 ### Contact me
 
-[email@domain.com](mailto:autonomousdrive@gmail.com)
+[johnyester@outlook.com](mailto:johnyester@outlook.com)
